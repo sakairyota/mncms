@@ -27,4 +27,7 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
+gem 'rspec'
+gem 'rspec-rails'
+gem 'bson_ext'
 gem 'mongoid'
